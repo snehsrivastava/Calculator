@@ -4,7 +4,7 @@
 
 ## Author
 
-- [Suraj Kumar Giri](https://www.github.com/surajgirioffl)
+- [Sneh Ranjan](https://www.github.com/snehsrivastava/)
 
 ## Screenshots
 
